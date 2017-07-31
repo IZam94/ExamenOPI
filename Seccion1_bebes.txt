@@ -1,0 +1,19 @@
+Para responder la pregunta se deben obtener los datos de población y natalidad en la delegación Álvero Obregón [1]. Se buscó el número de
+hijos nacidos vivos promedio en la delegación Álvaro Obregón: 1.87. Se toma también la población total de mujeres de 12 años y más (se
+elige ese rango debido a que el número de hijos nacidos está medido en base a mujeres de 12 a 130 años): 311962.
+Con esto obtenemos el número total de hijos nacidos: 1.87*311962=583369.
+Buscamos el número de hijos de 0 a 6 meses. Para esto buscamos la proporción de la población de 0 a 6 meses (la proporción de hijos deberá
+ser la misma que la población total).
+Se tiene el total de población de 0 a 2 años: 29724.
+Se busca la proporción de personas de 0 a 2 años respecto a la población total (727034 personas): 0.0409.
+Se multiplica esta proporción con el número total de hijos nacidos que se obtuvo anteriormente: 23860.
+El número anterior es para población de 0 a 2 años, pero se busca de 0 a 6 meses. Para esto se asume que la distribución de población
+de 0 a 2 años se distribuye igualmente y se dividirá entre 4 (4 periodos de 6 meses).
+
+Con lo anterior obtenemos un estimado para bebés de 0 a 6 meses en Álvaro Obregón: 5965.
+
+NOTA: Estos datos son para 2010. Se asume que las proporciones que se obtuvieron no han cambiado mucho en los últimos 7 años, así como
+el número promedio de hijos nacidos.
+
+[1] Insituto Nacional de Estadística y Geografía. Censo Población y Vivienda 2010: Distrito Federal.
+http://www.beta.inegi.org.mx/proyectos/ccpv/2010/
