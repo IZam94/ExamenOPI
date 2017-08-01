@@ -1,0 +1,3 @@
+Se muestran como cambian el número de bicicletas rentadas por mes (rojo para abril, azul para mayo, verde para junio) en rentas.png y
+podemos ver el caso particular de tres estaciones al alza en tendencia.jpg.
+*Archivos adjuntos en el repositorio.
