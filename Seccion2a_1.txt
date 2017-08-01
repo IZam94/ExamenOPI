@@ -1,0 +1,11 @@
+1. ¿En qué horarios hay mayor afluencia y en qué estaciones?
+	Los horarios con mayor afluencia son entre las 08:00 y las 10:00, entre las 14:00 y las 16:00 y entre las 18:00 y 20:00.
+	Las estaciones con mayor afluencia son Reforma-Havre, Río Balsas-Río Sena, Av. Jesús García-Carlos J. Meneses, Av. Central-J.Meneses.
+	Los horarios son más concurrido debido a las horas de trabajo. La mayor parte de la genta comienza la jornada alrededor de las 9:00
+	y termina alrededor de las 18:00, auqnue muchos terminan hasta las 20:00, por eso se observan esos picos. El pico entre 14:00 y 16:00
+	se puede deber a personas con una jornada más corta (trabajadores de medio tiempo, estudiantes) y a gente que sale de su lugar de
+	trabajo para comer.
+	Las estaciones más concurridas son varias del centro de la Ciudad de México. Esto se debe al gran número de personas que trabajan en
+	esta zona, así como el mayor número de rutas de transporte público que hay ahí. También debido ala mayor infraestructura para bicicletas
+	que suele haber en la zona centro de la ciudad. La dificultad de transporte en automóvil por tráfico y por el precio y disponibilidad de
+	estacionamientos también puede influir en esto.
