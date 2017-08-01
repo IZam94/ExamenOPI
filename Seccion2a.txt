@@ -1,3 +1,5 @@
 Se muestran como cambian el número de bicicletas rentadas por mes (rojo para abril, azul para mayo, verde para junio) en rentas.png y
 podemos ver el caso particular de tres estaciones al alza en tendencia.jpg.
+Las estaciones están numeradas de 1 a 452 con la lista de nombres en https://www.ecobici.cdmx.gob.mx/es/mapa-de-cicloestaciones
+
 *Archivos adjuntos en el repositorio.
